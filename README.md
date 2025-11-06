@@ -13,6 +13,7 @@ Federal Institute of Hydrology ([BfG](https://gcos.dwd.de/DWD-GCOS/EN/nationalpa
 - [Discharge history](https://kadnt.github.io/GNN-IV/discharge.pdf)
 
 ### Prediction results 
+The underlying AIS data was provided by the Federal Waterways Engineering and Research Institute ([BAW](https://www.baw.de/en/)).
 #### Traffic scenarios
 - [Ex. 1](https://kadnt.github.io/GNN-IV/traffic_scenario_1.html)
 - [Ex. 2](https://kadnt.github.io/GNN-IV/traffic_scenario_2.html)
