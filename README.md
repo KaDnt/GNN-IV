@@ -8,7 +8,7 @@ The visualization were created using the coastline, fairway, and waterway profil
 
 ### Contextual data
 Kilometer marks and curvature values at the fairway center, as defined in the paper, were added based on fairway boundary data provided by the Federal Waterways Engineering and Research Institute ([BAW](https://www.baw.de/en/)). Discharge data were provided by the [Federal Waterways and Shipping Agency](https://www.gdws.wsv.bund.de/DE/startseite/startseite_node.html) and made available via the 
-Federal Institute of Hydrology ([BfG](https://gcos.dwd.de/DWD-GCOS/EN/nationalpartners/bfg/bfg_node.html). 
+Federal Institute of Hydrology ([BfG](https://gcos.dwd.de/DWD-GCOS/EN/nationalpartners/bfg/bfg_node.html)). 
 - [Fairway curvature and curve direction](https://kadnt.github.io/GNN-IV/curv.html)
 - [Discharge history](https://kadnt.github.io/GNN-IV/discharge.pdf)
 
